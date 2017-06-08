@@ -1,3 +1,4 @@
+/* anytime u make a change to src directory, you need to rerun the build */
 import {RouterModule, Routes} from "@angular/router";
 import {HomeComponent} from "./components/home.component";
 

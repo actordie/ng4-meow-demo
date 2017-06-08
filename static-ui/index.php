@@ -1,5 +1,8 @@
-<?php require_once("lib/head-utils.php");?>
-	<body class="sfooter">
+<div class="sfooter"
+<div class="sfooter-content">
+	<?php require_once("lib/head-utils.php");?>
+
+
 		<div class="sfooter-content">
 
 			<!-- insert header and navbar -->
@@ -22,4 +25,8 @@
 		<!-- insert footer -->
 		<?php require_once("lib/footer.php");?>
 	</body>
-</html>
+	</html>
+</div>
+</div>
+
+
